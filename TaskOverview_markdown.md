@@ -10,24 +10,36 @@
 
 ## Project Overview
 
-### S. Attila Turkoz
+#### S. Attila Turkoz
 
-### Omer F. Kurban
+#### Omer F. Kurban
 
-### Osama Ben Ismaeil
+#### Osama Ben Ismaeil
 
-<h3 align="center" > Python tasks:</br>
-</h3>
-<ul>
+<h3 align="center" > Python tasks:</br></h3>
 
-[ ] Create a web framework server with Flask
+>     [ ] Create a web framework server with Flask
 
-[ ] Automated web driver to visit job search websites with Selenium/Splinter/chromeDriver.exe
+>     [ ] Automated web driver to visit job search websites with Selenium/Splinter/chromeDriver.exe
 
-[ ] Web scraping job search sites (indeed, craigslist etc.) with BeautifulSoup
+>     [ ] Web scraping job search sites (indeed, craigslist etc.) with BeautifulSoup
 
-[ ] Obtain data in JSON format and store in MongoDB
+>     [ ] Obtain data in JSON format and store in MongoDB
 
-[ ] Convert Dataframe to HTML job posts with Pandas
+>     [ ] Convert Dataframe to HTML job posts with Pandas
 
 </ul>
+
+<h3 align="center">
+HTML, JavaScript, CSS etc. tasks:
+</h3>
+
+>      [ ] Responsive web page plotting various charts vis Plotly
+
+>      [ ] DOM manipulation via d3. Data Driven Documents
+
+>      [ ] Data selection via form elements of HTML page
+
+>     [ ] Handle static datasets to provide indst. avg with Tableu
+
+>     [ ] Create Scalable Vector Graphics inline via d3.selection
